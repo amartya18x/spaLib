@@ -1,4 +1,4 @@
-#SPARSE RECOVERY CODE BASE#
+#SPALIB#
 ##Compile the OenBLAS Library.
 Go into the folders
 Do a Make
@@ -41,4 +41,3 @@ OMP:../data/Samples_p700_s70_e0.12_o1_Ceps0.1/X:700:459:7.249897:2.726920
 OMP:../data/Samples_p700_s70_e0.15_o1_Ceps0.1/X:700:459:6.080593:3.757105
 OMP:../data/Samples_p700_s70_e0.1_o1_Ceps0.1/X:700:459:7.172752:3.456214
 OMP:../data/Samples_p700_s70_e0.2_o1_Ceps0.1/X:700:459:6.726980:25.066389
-
